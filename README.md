@@ -1,0 +1,2 @@
+# pubherc
+pubherc是用hercules開機檔為基礎，套用二轉舊公式加上一些小修改所編譯出來的開機檔
